@@ -40,3 +40,9 @@
     display: inline-block;
     width: fit-content;
 }
+
+.overline {
+    border-top: 2px solid black;
+    display: inline-block;
+    width: fit-content;
+}
